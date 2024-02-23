@@ -17,6 +17,6 @@ UMons | Mons/Belgium | [orbi.umons.ac.be](https://orbi.umons.ac.be/) | Orbi | No
 
 ---
 For the moment, only 2 portals can be interrogated via a software :
-- In [requetesUVHC_HAL](requetesUVHC_HAL.ipynb) you can find how to interrogate HAL(UPHF) portal via python.
+- In [requetesUVHC_HAL](./requetesUVHC_HAL.ipynb) you can find how to interrogate HAL(UPHF) portal via python.
 - In [requetesUCAN_DSPACE](./requetesUCAN_DSPACE.ipynb) you can find how to interrogate DSpace(UC) portal via python.
   - N.B. BUT uses also DSpace, but this version cannot be interrogated via an API (for the moment)
