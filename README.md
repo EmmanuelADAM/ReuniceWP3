@@ -2,7 +2,7 @@
 
 Development about a portail that help to interrogates the different open science repository of the REUNICE project partners.
 
-here are the open science portals to access to the articles of the partners
+Here are the open science portals to access to the articles of the partners
 
 Partner | City/Country | Open Digital Repository | Tool | Extraction of data | Accessible via API | Query customizable via API
 ------- | ------------ | ----------------------- | ---- | ------------------ | ------------------ | -------------------------
@@ -16,5 +16,6 @@ UMons | Mons/Belgium | [orbi.umons.ac.be](https://orbi.umons.ac.be/) | Orbi | No
 
 
 ---
-- In [requetesUCAN_DSPACE.ipynb](./requetesUCAN_DSPACE.ipynb) you can find how to interrogate HAL(UPHF) portal via python.
-- In requetesUVHC_HAL.ipynb you can find how to interrogate HAL(UPHF) portal via python. 
+For the moment, only 2 portals can be interrogate via a software :
+- In [requetesUVHC_HAL](requetesUVHC_HAL.ipynb) you can find how to interrogate HAL(UPHF) portal via python.
+- In [requetesUCAN_DSPACE](./requetesUCAN_DSPACE.ipynb) you can find how to interrogate HAL(UPHF) portal via python.
