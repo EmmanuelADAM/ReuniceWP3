@@ -2,6 +2,8 @@
 
 Development about a portail that help to interrogates the different open science repository of the REUNICE project partners.
 
+here are the open science portals to access to the articles of the partners
+
 Partner | City/Country | Open Digital Repository | Tool | Extraction of data | Accessible via API | Query customizable via API
 ------- | ------------ | ----------------------- | ---- | ------------------ | ------------------ | -------------------------
 UPHF | Valenciennes/France | [uphf.hal.science](https://uphf.hal.science/) | HAL | Yes | Yes | Yes
@@ -11,3 +13,8 @@ UC | Catania/Italy | [iris.unict.it](https://www.iris.unict.it/) | IRIS | Yes | 
 PUT | Poznan/Poland | [sin.put.poznan.pl](https://sin.put.poznan.pl/) | SINUS | Yes | No | No
 UVA | Vaasa/Finland | [osuva.uwasa.fi](https://osuva.uwasa.fi/) | DSpace | No | **No?** | No
 UMons | Mons/Belgium | [orbi.umons.ac.be](https://orbi.umons.ac.be/) | Orbi | No | No | No
+
+
+---
+- In [requetesUCAN_DSPACE.ipynb](./requetesUCAN_DSPACE.ipynb) you can find how to interrogate HAL(UPHF) portal via python.
+- In requetesUVHC_HAL.ipynb you can find how to interrogate HAL(UPHF) portal via python. 
