@@ -16,7 +16,18 @@ UMons | Mons/Belgium | [orbi.umons.ac.be](https://orbi.umons.ac.be/) | Orbi | No
 
 
 ---
+
+Regarding the WP3 package,the objective is to interrogate the REUNICE Open Science portals to find similar articles as ours.
+- The idea was to interrogate directly through a program the different portals.. But it is only possible (from the information we get from the OS portals) with UC (Repositorio/Dspace) and UPHF (Hal).
+- Another solution is to periodically (1/month) build a database manually with the articles created by each partner  and to interrogate it… Its is a long and repetitive task..
+
+
 For the moment, only 2 portals can be interrogated via a software :
 - In [requetesUVHC_HAL](./requetesUVHC_HAL.ipynb) you can find how to interrogate HAL(UPHF) portal via python.
 - In [requetesUCAN_DSPACE](./requetesUCAN_DSPACE.ipynb) you can find how to interrogate DSpace(UC) portal via python.
   - N.B. BUT uses also DSpace, but this version cannot be interrogated via an API (for the moment)
+
+do not hesitate to contact emmanuel.adam-at-uphf.fr if you have any advice...
+
+Best regards
+----
