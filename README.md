@@ -29,7 +29,8 @@ For the moment, only 2 portals can be interrogated via a software :
 
 do not hesitate to contact emmanuel.adam-at-uphf.fr if you have any advice...
 
-Best regards
+Best regards..
+
 
 
 ----
