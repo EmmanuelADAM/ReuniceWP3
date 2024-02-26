@@ -9,7 +9,7 @@ Partner | City/Country | Open Digital Repository | Tool | Extraction of data | A
 UPHF | Valenciennes/France | [uphf.hal.science](https://uphf.hal.science/) | HAL | Yes | Yes | Yes
 UC | Cantabria/Spain | [repositorio.unican.es](https://repositorio.unican.es/xmlui/) | DSpace | Yes | Yes | No
 BUT | Brandenburg/Germany | [opus4.kobv.de/opus4-btu](https://opus4.kobv.de/opus4-btu/home) | OPUS-4 | Yes | No | No
-UC | Catania/Italy | [iris.unict.it](https://www.iris.unict.it/) | IRIS | Yes | No | No
+UNICT | Catania/Italy | [iris.unict.it](https://www.iris.unict.it/) | IRIS | Yes | No | No
 PUT | Poznan/Poland | [sin.put.poznan.pl](https://sin.put.poznan.pl/) | SINUS | Yes | No | No
 UVA | Vaasa/Finland | [osuva.uwasa.fi](https://osuva.uwasa.fi/) | DSpace | No | **No?** | No
 UMons | Mons/Belgium | [orbi.umons.ac.be](https://orbi.umons.ac.be/) | Orbi | No | No | No
