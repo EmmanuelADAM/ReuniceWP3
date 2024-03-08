@@ -24,7 +24,7 @@ Regarding the WP3 package,the objective is to interrogate the REUNICE Open Scien
 
 For the moment, only 2 portals can be interrogated via a software :
 - In [requetesUVHC_HAL](./requetesUVHC_HAL.ipynb) you can find how to interrogate HAL(UPHF) portal via python.
-- In [requetesUCAN_DSPACE](./requetesUCAN_DSPACE.ipynb) you can find how to interrogate DSpace(UC) portal via python.
+- In [requetesUC_DSPACE](./requetesUC_DSPACE.ipynb) you can find how to interrogate DSpace(UC) portal via python.
   - N.B. BUT uses also DSpace, but this version cannot be interrogated via an API (for the moment)
 
 do not hesitate to contact emmanuel.adam-at-uphf.fr if you have any advice...
